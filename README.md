@@ -25,14 +25,14 @@
 
  -->
 ## Hi, I'm Mikdad Hasan👋
-[<img src='https://github.com/shovoalways/shovoalways/blob/main/img/bg.jpg?raw=true' alt='Ali Hossain'>](https://github.com/shovoalways/)
+<img width="924" height="520" alt="banner" src="https://github.com/user-attachments/assets/6bd144f8-49c0-46fd-8055-f3bc3fa5f1d3" />
 <p>
 👑 I am Web Developer <br> 
 🖊️ Love to write code <br> 
 🎤 Like to share my knowledge </p> 
 
 
-<p align="left"> <a href="https://twitter.com/mikdadfahmid" target="blank"><img width="924" height="520" alt="banner" src="https://github.com/user-attachments/assets/6bd144f8-49c0-46fd-8055-f3bc3fa5f1d3" />
+<p align="left"> <a href="https://twitter.com/mikdadfahmid" target="blank">
  </p>
 
 ## 🚀 About Me
@@ -53,12 +53,13 @@ I’m a Front End Web developer passionate about making error-free websites with
 ![](https://nirzak-streak-stats.vercel.app/?user=web-mikdad&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=web-mikdad&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## ☕ Connect with me!
+## ☕ Connect with me
 [![](https://visitcount.itsvg.in/api?id=web-mikdad&icon=0&color=0)](https://visitcount.itsvg.in)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/mikdad traveler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mikdad traveler" height="30" width="40" /></a>
 </p>
+<a href="https://github.com/web-mikdad>
 
 
 
