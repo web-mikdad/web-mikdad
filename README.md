@@ -59,7 +59,12 @@ I’m a Front End Web developer passionate about making error-free websites with
 <p align="left">
 <a href="https://fb.com/mikdad traveler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mikdad traveler" height="30" width="40" /></a>
 </p>
-<a href="https://github.com/web-mikdad>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=web-mikdad&show_icons=true&locale=en&layout=compact" alt="web-mikdad" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=web-mikdad&show_icons=true&locale=en" alt="web-mikdad" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=web-mikdad&" alt="web-mikdad" /></p>
+
 
 
 
