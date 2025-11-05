@@ -53,7 +53,9 @@ I’m a Front End Web developer passionate about making error-free websites with
 ![](https://nirzak-streak-stats.vercel.app/?user=web-mikdad&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=web-mikdad&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## ☕ Connect with me
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Mikdad Fahmid Traveler) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mikdad Bin Mansur) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:webmikdad@gmail.com) 
+
 
 
 
