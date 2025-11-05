@@ -61,5 +61,8 @@ I’m a Front End Web developer passionate about making error-free websites with
 
 ---
 [![](https://visitcount.itsvg.in/api?id=web-mikdad&icon=0&color=0)](https://visitcount.itsvg.in)
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/mikdad traveler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mikdad traveler" height="30" width="40" /></a>
+</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
