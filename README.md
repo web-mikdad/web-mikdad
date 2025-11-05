@@ -25,7 +25,7 @@
 
  -->
 ## Hi, I'm Mikdad Hasan👋
-<img width="924" height="520" alt="banner" src="https://github.com/user-attachments/assets/6bd144f8-49c0-46fd-8055-f3bc3fa5f1d3" />
+<img width="924" height="420" alt="banner" src="https://github.com/user-attachments/assets/6bd144f8-49c0-46fd-8055-f3bc3fa5f1d3" />
 <p>
 👑 I am Web Developer <br> 
 🖊️ Love to write code <br> 
